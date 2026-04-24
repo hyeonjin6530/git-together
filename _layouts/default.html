@@ -1,0 +1,138 @@
+<!doctype html>
+<html lang="ko">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>
+      {% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}
+    </title>
+    <meta name="description" content="{{ site.description | default: site.title }}" />
+    <style>
+      :root {
+        color-scheme: light dark;
+        --bg: #ffffff;
+        --fg: #111827;
+        --muted: #6b7280;
+        --card: #f9fafb;
+        --border: #e5e7eb;
+        --link: #2563eb;
+        --maxw: 920px;
+      }
+
+      @media (prefers-color-scheme: dark) {
+        :root {
+          --bg: #0b1020;
+          --fg: #e5e7eb;
+          --muted: #9ca3af;
+          --card: #0f172a;
+          --border: #1f2937;
+          --link: #60a5fa;
+        }
+      }
+
+      body {
+        margin: 0;
+        background: var(--bg);
+        color: var(--fg);
+        font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica,
+          Arial, "Apple SD Gothic Neo", "Noto Sans KR", "Malgun Gothic",
+          "Segoe UI Emoji", "Apple Color Emoji", "Noto Color Emoji", sans-serif;
+        line-height: 1.6;
+      }
+
+      a {
+        color: var(--link);
+      }
+
+      header {
+        border-bottom: 1px solid var(--border);
+        background: color-mix(in srgb, var(--bg) 92%, var(--card));
+      }
+
+      .wrap {
+        max-width: var(--maxw);
+        margin: 0 auto;
+        padding: 20px 16px;
+      }
+
+      .brand {
+        display: flex;
+        align-items: baseline;
+        gap: 10px;
+        flex-wrap: wrap;
+      }
+
+      .brand a {
+        color: inherit;
+        text-decoration: none;
+        font-weight: 700;
+        letter-spacing: -0.02em;
+      }
+
+      .brand small {
+        color: var(--muted);
+      }
+
+      main.wrap {
+        padding-top: 28px;
+        padding-bottom: 56px;
+      }
+
+      img {
+        max-width: 100%;
+      }
+
+      table {
+        width: 100%;
+        border-collapse: collapse;
+        overflow: hidden;
+        border-radius: 12px;
+      }
+
+      table th,
+      table td {
+        border: 1px solid var(--border);
+        padding: 10px 12px;
+        vertical-align: top;
+      }
+
+      table thead th {
+        background: var(--card);
+      }
+
+      pre,
+      code {
+        font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas,
+          "Liberation Mono", "Courier New", monospace;
+      }
+
+      pre {
+        background: var(--card);
+        border: 1px solid var(--border);
+        border-radius: 12px;
+        padding: 14px 16px;
+        overflow: auto;
+      }
+
+      hr {
+        border: 0;
+        border-top: 1px solid var(--border);
+        margin: 24px 0;
+      }
+    </style>
+  </head>
+  <body>
+    <header>
+      <div class="wrap">
+        <div class="brand">
+          <a href="{{ '/' | relative_url }}">{{ site.title }}</a>
+          {% if page.title %}
+          <small>/ {{ page.title }}</small>
+          {% endif %}
+        </div>
+      </div>
+    </header>
+
+    <main class="wrap">{{ content }}</main>
+  </body>
+</html>

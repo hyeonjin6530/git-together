@@ -1,7 +1,7 @@
-—--
+---
 layout: default
 title: Git Together
-—--
+---
 
 <div align="center">
 
