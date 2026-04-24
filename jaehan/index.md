@@ -3,7 +3,7 @@ layout: default
 title: jaehan
 ---
 
-<div align="center">
+<div align="center" markdown="1">
 
 <br />
 
@@ -31,7 +31,7 @@ title: jaehan
 
 <br />
 
-<div align="center">
+<div align="center" markdown="1">
 
 ## 🧑‍💻 About Me
 
@@ -53,7 +53,7 @@ title: jaehan
 
 <br />
 
-<div align="center">
+<div align="center" markdown="1">
 
 ## 🛠 Tech Stack
 
@@ -61,7 +61,7 @@ title: jaehan
 
 <br />
 
-<div align="center">
+<div align="center" markdown="1">
 
 ### Language
 
@@ -106,7 +106,7 @@ title: jaehan
 
 <br />
 
-<div align="center">
+<div align="center" markdown="1">
 
 ## 🌱 Currently Learning
 
@@ -114,7 +114,7 @@ title: jaehan
 
 <br />
 
-<div align="center">
+<div align="center" markdown="1">
 
 | Category      | Learning                              |
 | ------------- | ------------------------------------- |
@@ -132,7 +132,7 @@ title: jaehan
 
 <br />
 
-<div align="center">
+<div align="center" markdown="1">
 
 ## 💡 Developer Mindset
 
@@ -140,7 +140,7 @@ title: jaehan
 
 <br />
 
-<div align="center">
+<div align="center" markdown="1">
 
 <table>
   <tr>
@@ -173,7 +173,7 @@ title: jaehan
 
 <br />
 
-<div align="center">
+<div align="center" markdown="1">
 
 ## 🎯 Goal
 
@@ -181,7 +181,7 @@ title: jaehan
 
 <br />
 
-<div align="center">
+<div align="center" markdown="1">
 
 > 기본기가 탄탄한 백엔드 개발자로 성장하고 싶습니다.  
 > 서비스의 전체 흐름을 이해하고, 안정적인 기능을 구현하는 개발자가 되는 것이 목표입니다.
@@ -194,7 +194,7 @@ title: jaehan
 
 <br />
 
-<div align="center">
+<div align="center" markdown="1">
 
 ## 🔗 Contact
 

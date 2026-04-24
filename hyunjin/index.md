@@ -3,7 +3,7 @@ layout: default
 title: hyunjin
 ---
 
-<div align="center">
+<div align="center" markdown="1">
 
 <br />
 
@@ -30,7 +30,7 @@ title: hyunjin
 
 <br />
 
-<div align="center">
+<div align="center" markdown="1">
 
 ## 🧑‍💻 About Me
 
@@ -54,7 +54,7 @@ title: hyunjin
 
 <br />
 
-<div align="center">
+<div align="center" markdown="1">
 
 ## 🛠 Tech Stack
 
@@ -62,7 +62,7 @@ title: hyunjin
 
 <br />
 
-<div align="center">
+<div align="center" markdown="1">
 
 ### 💻 Frontend
 
@@ -104,7 +104,7 @@ title: hyunjin
 
 <br />
 
-<div align="center">
+<div align="center" markdown="1">
 
 ## 🚀 Experience
 
@@ -126,7 +126,7 @@ title: hyunjin
 
 <br />
 
-<div align="center">
+<div align="center" markdown="1">
 
 ## 💡 Developer Mindset
 
@@ -134,7 +134,7 @@ title: hyunjin
 
 <br />
 
-<div align="center">
+<div align="center" markdown="1">
 
 <table>
   <tr>
@@ -167,7 +167,7 @@ title: hyunjin
 
 <br />
 
-<div align="center">
+<div align="center" markdown="1">
 
 ## 🎯 Goal
 
@@ -175,7 +175,7 @@ title: hyunjin
 
 <br />
 
-<div align="center">
+<div align="center" markdown="1">
 
 > 사용자에게 신뢰를 줄 수 있는 안정적인 서비스를 만드는  
 > 프론트엔드 개발자로 성장하고 싶습니다.
@@ -188,7 +188,7 @@ title: hyunjin
 
 <br />
 
-<div align="center">
+<div align="center" markdown="1">
 
 ## 🔗 Contact
 

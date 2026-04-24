@@ -3,7 +3,7 @@ layout: default
 title: hyejin
 ---
 
-<div align="center">
+<div align="center" markdown="1">
 
 <br />
 
@@ -29,7 +29,7 @@ title: hyejin
 
 <br />
 
-<div align="center">
+<div align="center" markdown="1">
 
 ## 🧑‍💻 About Me
 
@@ -49,7 +49,7 @@ title: hyejin
 
 <br />
 
-<div align="center">
+<div align="center" markdown="1">
 
 ## 🛠 Tech Stack
 
@@ -57,7 +57,7 @@ title: hyejin
 
 <br />
 
-<div align="center">
+<div align="center" markdown="1">
 
 ### Language
 
@@ -102,7 +102,7 @@ title: hyejin
 
 <br />
 
-<div align="center">
+<div align="center" markdown="1">
 
 ## 🌱 Currently Learning
 
@@ -110,7 +110,7 @@ title: hyejin
 
 <br />
 
-<div align="center">
+<div align="center" markdown="1">
 
 | Category      | Focus Topics |
 | ------------- | ------------------------------------- |
@@ -127,7 +127,7 @@ title: hyejin
 
 <br />
 
-<div align="center">
+<div align="center" markdown="1">
 
 ## 💡 Developer Mindset
 
@@ -135,7 +135,7 @@ title: hyejin
 
 <br />
 
-<div align="center">
+<div align="center" markdown="1">
 
 <table>
   <tr>
@@ -168,7 +168,7 @@ title: hyejin
 
 <br />
 
-<div align="center">
+<div align="center" markdown="1">
 
 ## 🎯 My Goal
 
@@ -176,7 +176,7 @@ title: hyejin
 
 <br />
 
-<div align="center">
+<div align="center" markdown="1">
 
 > **"복잡한 문제를 단순하게 해결하고, 변화에 유연하게 대응하는 개발자"** > 기술의 유행을 따르기보다, 기본이 탄탄하여 믿고 맡길 수 있는 개발자가 되는 것이 저의 지향점입니다.
 
@@ -188,7 +188,7 @@ title: hyejin
 
 <br />
 
-<div align="center">
+<div align="center" markdown="1">
 
 ## 🔗 Contact & Channel
 
