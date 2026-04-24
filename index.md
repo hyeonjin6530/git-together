@@ -33,11 +33,11 @@ title: Git Together
 
 | 팀원 이름 | 팀원의 페이지 링크 | 진행한 업무 |
 | --------- | :----------------: | ----------- |
-| 황현진 (팀장) |  | 이슈 템플릿 지정, PR 템플릿 지정, 페이지 개발 |
-| 이채린 |  | Jekyll 설정, 페이지 개발 |
-| 장재한 |  | 디렉토리 구조 설정, 페이지 개발 |
-| 김혜진 |  | 이슈 생성, 페이지 개발 |
-| 김도현 |  | 메인 페이지 및 개인 페이지 개발 |
+| 황현진 (팀장) | https://hyeonjin6530.github.io/git-together/hyunjin/ | 이슈 템플릿 지정, PR 템플릿 지정, 페이지 개발 |
+| 이채린 | https://hyeonjin6530.github.io/git-together/chaerin/ | Jekyll 설정, 페이지 개발 |
+| 장재한 | https://hyeonjin6530.github.io/git-together/jaehan/ | 디렉토리 구조 설정, 페이지 개발 |
+| 김혜진 | https://hyeonjin6530.github.io/git-together/hyejin/ | 이슈 생성, 페이지 개발 |
+| 김도현 | https://hyeonjin6530.github.io/git-together/dohyun/ | 메인 페이지 및 개인 페이지 개발 |
 
 </div>
 
