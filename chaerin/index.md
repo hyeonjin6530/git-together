@@ -3,7 +3,7 @@ layout: default
 title: chaerin
 ---
 
-<div align="center">
+<div align="center" markdown="1">
 
 <br />
 
@@ -31,7 +31,7 @@ title: chaerin
 
 <br />
 
-<div align="center">
+<div align="center" markdown="1">
 
 ## 🧑‍💻 About Me
 
@@ -53,7 +53,7 @@ title: chaerin
 
 <br />
 
-<div align="center">
+<div align="center" markdown="1">
 
 ## 🛠 Tech Stack
 
@@ -61,7 +61,7 @@ title: chaerin
 
 <br />
 
-<div align="center">
+<div align="center" markdown="1">
 
 ### Language
 
@@ -103,7 +103,7 @@ title: chaerin
 
 <br />
 
-<div align="center">
+<div align="center" markdown="1">
 
 ## 🌱 Currently Learning
 
@@ -111,7 +111,7 @@ title: chaerin
 
 <br />
 
-<div align="center">
+<div align="center" markdown="1">
 
 | Category      | Learning                              |
 | ------------- | ------------------------------------- |
@@ -129,7 +129,7 @@ title: chaerin
 
 <br />
 
-<div align="center">
+<div align="center" markdown="1">
 
 ## 💡 Developer Mindset
 
@@ -137,7 +137,7 @@ title: chaerin
 
 <br />
 
-<div align="center">
+<div align="center" markdown="1">
 
 <table>
   <tr>
@@ -170,7 +170,7 @@ title: chaerin
 
 <br />
 
-<div align="center">
+<div align="center" markdown="1">
 
 ## 🎯 Goal
 
@@ -178,7 +178,7 @@ title: chaerin
 
 <br />
 
-<div align="center">
+<div align="center" markdown="1">
 
 > 기본기가 탄탄한 풀스텍 개발자로 성장하고 싶습니다.  
 > 서비스의 전체 흐름을 이해하고, 안정적인 기능을 구현하는 개발자가 되는 것이 목표입니다.
@@ -191,7 +191,7 @@ title: chaerin
 
 <br />
 
-<div align="center">
+<div align="center" markdown="1">
 
 ## 🔗 Contact
 

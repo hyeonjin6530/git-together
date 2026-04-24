@@ -4,7 +4,7 @@ title: dohyun
 ---
 
 
-<div align="center">
+<div align="center" markdown="1">
 
 <br />
 
@@ -31,7 +31,7 @@ title: dohyun
 
 <br />
 
-<div align="center">
+<div align="center" markdown="1">
 
 ## 🧑‍💻 About Me
 
@@ -53,7 +53,7 @@ title: dohyun
 
 <br />
 
-<div align="center">
+<div align="center" markdown="1">
 
 ## 🛠 Tech Stack
 
@@ -61,7 +61,7 @@ title: dohyun
 
 <br />
 
-<div align="center">
+<div align="center" markdown="1">
 
 ### Language
 
@@ -103,7 +103,7 @@ title: dohyun
 
 <br />
 
-<div align="center">
+<div align="center" markdown="1">
 
 ## 🌱 Currently Learning
 
@@ -111,7 +111,7 @@ title: dohyun
 
 <br />
 
-<div align="center">
+<div align="center" markdown="1">
 
 | Category      | Learning                                    |
 | ------------- | ------------------------------------------- |
@@ -129,7 +129,7 @@ title: dohyun
 
 <br />
 
-<div align="center">
+<div align="center" markdown="1">
 
 ## 💡 Developer Mindset
 
@@ -137,7 +137,7 @@ title: dohyun
 
 <br />
 
-<div align="center">
+<div align="center" markdown="1">
 
 <table>
   <tr>
@@ -170,7 +170,7 @@ title: dohyun
 
 <br />
 
-<div align="center">
+<div align="center" markdown="1">
 
 ## 🎯 Goal
 
@@ -178,7 +178,7 @@ title: dohyun
 
 <br />
 
-<div align="center">
+<div align="center" markdown="1">
 
 > 서비스의 전체 흐름을 이해하고,  
 > 근본적인 문제를 해결하는 백엔드 개발자가 되는 것이 목표입니다.
@@ -191,7 +191,7 @@ title: dohyun
 
 <br />
 
-<div align="center">
+<div align="center" markdown="1">
 
 ## 🔗 Contact
 
